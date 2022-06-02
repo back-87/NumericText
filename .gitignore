@@ -26,6 +26,8 @@ DerivedData/
 ## Obj-C/Swift specific
 *.hmap
 
+quickAmendAndPush.sh
+
 ## App packaging
 *.ipa
 *.dSYM.zip
